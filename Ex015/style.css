@@ -1,0 +1,18 @@
+@charset "UTF-8";
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    text-decoration: underline;
+
+}
+p{
+    color: blanchedalmond;
+}
+h2{
+    color: brown;
+    font-size: 60px;
+}
+
+body{
+    background-color: black;
+}
