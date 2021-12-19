@@ -1,0 +1,22 @@
+@charset "UTF-8";
+h1,h2, p {
+    color: red;
+    text-align: center;
+    display: block;
+}
+
+
+/*
+input{
+    width: 200px;
+    background-color: #ccc;
+    
+}
+input[type="Email"]{
+    width: 200px;
+    background-color: #ccc;
+    height: 35px;
+    border-radius: 10px;
+    border-color: red;
+}
+*/

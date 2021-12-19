@@ -1,0 +1,26 @@
+@charset "UTF-8";
+p{
+    color: aqua;
+    text-transform: lowercase;
+    text-align: justify;
+    text-indent:20px ;
+    line-height: 20px;
+    direction: ltr;
+    letter-spacing: 20px;
+    word-spacing: -4px;
+    text-shadow: 3px 3px  rgb(243, 0, 0);
+    
+
+}
+h1{
+    text-align: left;
+    text-decoration: underline;
+}
+h2{
+    text-align: right;
+    text-decoration: overline;
+}
+h3{
+    text-align: center;
+    text-decoration:none;
+}

@@ -1,0 +1,22 @@
+  /*  p{
+        
+      
+        border: solid 20px blue;
+
+    }*/
+    #exemplo{
+        width: 200px;
+        height: 200px;
+        background-color: blue;
+        transition-property: width;
+        transition-duration: 2s;
+        transition-timing-function: ease-in;
+        transition-delay: 1s;
+
+    }
+    #exemplo:hover{
+width: 350px;
+height: 350px;
+background-color: rgb(0, 0, 0);
+    }
+    
